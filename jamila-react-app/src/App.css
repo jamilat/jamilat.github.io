@@ -25,13 +25,30 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #8fcb0b;
+}
+
+.App-text {
+  color: #12130F;
+}
+
+.App-subtext {
+  color: #5b0279;
+}
+
+.App-lightcolor {
+  color: #eae6e5;
+}
+
+.App-earthcolor {
+  color: #8f8073;
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
